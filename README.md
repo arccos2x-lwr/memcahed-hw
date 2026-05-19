@@ -40,7 +40,7 @@ Hot Key (Один супер-популярный ключ):
 
 `systemctl status memcached`
 
-![memcached_hw_2](https://github.com/arccos2x-lwr/memcached-hw/blob/main/img/02-1.png)
+![memcached_hw_2](https://github.com/arccos2x-lwr/memcahed-hw/blob/main/img/02-1.png)
 
 
 
@@ -48,10 +48,10 @@ Hot Key (Один супер-популярный ключ):
 
 `Вынужден был отступить от условий задачи и поменять TTL на 10 - не успевал`
 
-![memcached_hw_3](https://github.com/arccos2x-lwr/memcached-hw/blob/main/img/03-1.png)
+![memcached_hw_3](https://github.com/arccos2x-lwr/memcahed-hw/blob/main/img/03-1.png)
 
 
 ### Задание 4. Запись данных в Redis
 
 
-![memcached_hw_4](https://github.com/arccos2x-lwr/memcached-hw/blob/main/img/04-1.png)
+![memcached_hw_4](https://github.com/arccos2x-lwr/memcahed-hw/blob/main/img/04-1.png)
